@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "fa6e3b2659775cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "81dd1d48c6a5e0a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b4c84001c25824",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/lab01-simbolosDupilicados.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lab01-simbolosDupilicados.excalidraw"
+            }
+          },
+          {
+            "id": "2842a74868287c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estrutura-de-dados/04.Pilhas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.Pilhas"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b5b95f698c9ef8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d12e21fa9ccfdb60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e33a106247944de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "47862e263cdfb9d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b607bcab2ce2c8e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "18bc86114e7ce9ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc640270377e7ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55da6ea20b50fa3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "estrutura-de-dados/02. Análise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 02. Análise"
+            }
+          },
+          {
+            "id": "a9c2e10991a37cd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "estrutura-de-dados/02. Análise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 02. Análise"
+            }
+          },
+          {
+            "id": "f8c7c2b00b696953",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e922bdfc9b4914c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "estrutura-de-dados/02. Análise.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 02. Análise"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "2842a74868287c2a",
+  "lastOpenFiles": [
+    "estrutura-de-dados/03.Estruturas de Dados Básicas.md",
+    "estrutura-de-dados/02.Análise de Algoritmos.md",
+    "estrutura-de-dados/04.Pilhas.md",
+    "Excalidraw/lab01-simbolosDupilicados.excalidraw.md",
+    "estrutura-de-dados/05.Filas.md",
+    "Excalidraw/simbolos-balanceados.34.46.excalidraw.md",
+    "Excalidraw/parenteaes-balanceados.excalidraw 1.md",
+    "img/Pasted image 20250411083724.png",
+    "img/Pasted image 20250411091924.png",
+    "Sem título.md",
+    "img/Pasted image 20250410174311.png",
+    "img/Pasted image 20250410174832.png",
+    "img/Pasted image 20250410174244.png",
+    "img",
+    "img/Pasted image 20250410174257.png",
+    "Excalidraw",
+    "template",
+    "Bem-vindo.md",
+    "estrutura-de-dados"
+  ]
+}
